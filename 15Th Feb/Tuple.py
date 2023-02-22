@@ -68,7 +68,7 @@ print(tuple7)
 
 #Comparing tuples
 
-if tuple66!=tuple5:
+if tuple66  !=tuple5:
     print("Equals")
 else:
     print("not equal")
